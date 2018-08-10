@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "424095122510",
+    "firebase_url": "https://chat-766ab.firebaseio.com",
+    "project_id": "chat-766ab",
+    "storage_bucket": "chat-766ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424095122510:android:503f6887f9f13ff0",
+        "android_client_info": {
+          "package_name": "com.example.rohit.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424095122510-1p38ktjohs249c30qeou6pmnj8la4u9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohit.chat",
+            "certificate_hash": "4977ad8f217d15d18f0dedc266fa18693a0b23f7"
+          }
+        },
+        {
+          "client_id": "424095122510-25ss0l3rbroevve0rllbu2b3quiuiarv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHzKMINl4uqE5gbApxkKWGcagcZ2cd21g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424095122510-25ss0l3rbroevve0rllbu2b3quiuiarv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
